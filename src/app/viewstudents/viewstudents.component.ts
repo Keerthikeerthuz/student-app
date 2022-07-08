@@ -11,5 +11,14 @@ export class ViewstudentsComponent implements OnInit {
 
   ngOnInit(): void {
   }
-name="Akhil"
+data=[
+  {"name":"sruthi","age":20,"photo":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541"},
+  {"name":"sruthi","age":20,"photo":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541"},
+  {"name":"anu","age":19,"photo":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541"},
+  {"name":"sreenu","age":19,"photo":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541"},
+  {"name":"sreenu","age":19,"photo":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541"},
+  {"name":"aswathy","age":12,"photo":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541"},
+  {"name":"sree","age":15,"photo":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541"},
+  {"name":"arathy","age":11,"photo":"https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541"}
+]
 }
